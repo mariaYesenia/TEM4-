@@ -1,1 +1,1 @@
-# TEM4-
+# Regla del Trapecio
