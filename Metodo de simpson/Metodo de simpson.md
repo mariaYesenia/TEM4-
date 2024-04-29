@@ -4,7 +4,7 @@ La regla de Simpson es una de las fórmulas utilizadas para encontrar el valor a
 La regla de Simpson se utiliza para encontrar el valor estimado de una integral definida (es decir, de la forma b ∫ₐ f(x) dx) aproximando el área bajo la gráfica de la función f(x). Mientras usamos la suma de Riemann, calculamos el área bajo una curva (una integral definida) dividiendo el área bajo la curva en rectángulos, mientras que cuando usamos la regla de Simpson, evaluamos el área bajo una curva dividiendo el área total en parábolas .
 
 Hay 2 variaciones de la regla de Simpson llamadas  regla de Simpson 1/3 y regla de Simpson 3/8 que son las siguientes 
-## Aplicacion de la regla de Simpson
+## Aplicacion de la regla de Simpson 1/3
 La regla de Simpson del 1/3 proporciona una aproximación más precisa. Estos son los pasos que explican cómo aplicar la regla de Simpson para aproximar la integral b ∫ₐ f(x) dx.
 
 
