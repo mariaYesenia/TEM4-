@@ -17,6 +17,7 @@ Esta regla se conoce como regla del tercio de Simpson .
 Otro método de integración numérica se llama "regla de los 3/8 de Simpson". Se basa completamente en la interpolación cúbica en lugar de la interpolación cuadrática. La regla de Simpson 3/8 o tres ocho viene dada por:
 
 ∫ a b f(x) dx = 3h/8 [(y 0  + y n ) + 3(y 1  + y 2  + y 4  + y 5  + …. + y n-1 ) + 2(y 3  + y 6  + y 9  + ….. + y n-3 )]
+
 Esta regla es más precisa que el método estándar, ya que utiliza un valor funcional más. Para la regla de 3/8, también existe la regla de Simpson compuesta de 3/8, que es similar a la forma generalizada. La regla de los 3/8 se conoce como la segunda regla de integración de Simpson.
 
 ## Aplicacion de la regla de Simpson 1/3
