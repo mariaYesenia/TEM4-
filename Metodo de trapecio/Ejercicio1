@@ -1,0 +1,25 @@
+# Función para calcular la aproximación de la integral definida utilizando el método del trapecio
+def metodo_trapecio(a, b, n, f):
+    h = (b - a) / n  # Calcula el ancho de cada subintervalo
+    suma = 0.5 * (f(a) + f(b))  # Suma los valores en los extremos
+    # Suma los valores en los puntos internos
+    for i in range(1, n):
+        x = a + i * h
+        suma += f(x)
+    return h * suma
+
+def funcion(x):
+    return x ** 3 - 6 * x ** 2 + 11 * x - 6
+
+def main():
+    a = 1.3  # Límite inferior de integración
+    b = 1.8  # Límite superior de integración
+    n = 1  # Número de subintervalos
+    # Calcular la integral definida utilizando el método del trapecio
+    resultado = metodo_trapecio(a, b, n, funcion)
+    print("El resultado de la integral definida es:", resultado)
+
+if __name__ == "__main__":
+    main()
+
+
