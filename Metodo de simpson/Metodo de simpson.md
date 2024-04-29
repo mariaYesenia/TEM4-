@@ -9,7 +9,8 @@ Hay 2 variaciones de la regla de Simpson llamadas  regla de Simpson 1/3 y regla 
 La regla de 1/3 de Simpson es una extensión de la regla trapezoidal en la que el integrando se aproxima mediante un polinomio de segundo orden. La regla de Simpson se puede derivar de diversas formas utilizando el polinomio en diferencias divididas de Newton, el polinomio de Lagrange y el método de los coeficientes. La regla del 1/3 de Simpson se define por:
 La regla de Simpson del 1/3 proporciona una aproximación más precisa. Estos son los pasos que explican cómo aplicar la regla de Simpson para aproximar la integral b ∫ₐ f(x) dx.
 
-![Formula ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.slideserve.com%2Fcachez%2Fm-todos-num-ricos&psig=AOvVaw1_yjEepTW1-sBG9YI3lhBQ&ust=1714499911408000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIidlcWA6IUDFQAAAAAdAAAAABAE)
+![Formula ] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQReKnnqveJYiarMCZsqMmuR-5BZU6Fb04GurAzJfMx&s)
+
 
 ## Aplicacion de la regla de Simpson 1/3
 *Paso 1:* Identifique los valores de 'a' y 'b' del intervalo [a, b] e identifique el valor de 'n', que es el número de subintervalos.
